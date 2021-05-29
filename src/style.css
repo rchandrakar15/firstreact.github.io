@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a.active_class {
+    color: rgb(178, 18, 199);
+    border-bottom: 1px solid red;
+    
+  }
+      .menubar{
+        background-color: rgb(154, 192, 148);
+        width: 100%;
+        line-height: 40px;
+        display: flex;
+        justify-content: space-around;
+      }
+  

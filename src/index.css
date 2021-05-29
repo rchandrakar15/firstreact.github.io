@@ -1,0 +1,12 @@
+body {
+  background-color: #b4f2e1;
+  box-sizing: border-box;
+  margin: auto;
+  padding: 0;
+  font-family: 'Akaya Telivigala', cursive;
+}
+
+.menu_active{
+  font-style: bold;
+  border-bottom: 1px solid #565387;
+}

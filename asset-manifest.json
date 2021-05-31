@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/firstreact.github.io/static/js/main.465df40e.chunk.js",
+    "main.js.map": "/firstreact.github.io/static/js/main.465df40e.chunk.js.map",
+    "runtime-main.js": "/firstreact.github.io/static/js/runtime-main.a10dfc90.js",
+    "runtime-main.js.map": "/firstreact.github.io/static/js/runtime-main.a10dfc90.js.map",
+    "static/css/2.74c02967.chunk.css": "/firstreact.github.io/static/css/2.74c02967.chunk.css",
+    "static/js/2.8669e8dd.chunk.js": "/firstreact.github.io/static/js/2.8669e8dd.chunk.js",
+    "static/js/2.8669e8dd.chunk.js.map": "/firstreact.github.io/static/js/2.8669e8dd.chunk.js.map",
+    "index.html": "/firstreact.github.io/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/firstreact.github.io/static/css/2.74c02967.chunk.css.map",
+    "static/js/2.8669e8dd.chunk.js.LICENSE.txt": "/firstreact.github.io/static/js/2.8669e8dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a10dfc90.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.8669e8dd.chunk.js",
+    "static/js/main.465df40e.chunk.js"
+  ]
+}
